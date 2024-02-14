@@ -386,3 +386,26 @@ footer .social{
         margin: 0;
     }
 }
+
+@media (max-width:650px) {
+
+    .section-img1{
+        height: 40vh;
+        object-position: left;
+    }
+    .section-img2{
+        height: 40vh;
+        object-position: right;
+    }
+    .container img{
+        height: 40vh;
+    }
+    .container{
+        min-height: 80vh;
+        max-height: auto;
+    }
+    .container-part1{
+        height: 40vh;
+    }
+    
+}
