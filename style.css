@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family:BoseText,Verdana,sans-serif;
+    overflow-x: hidden;
 }
 nav{
     height: 13vh;
@@ -213,7 +214,7 @@ nav{
 .item{
     width: 280px;
     margin: 20px 40px 0px 0px;
-    height: 50vh;
+    height: 56vh;
     background-color: rgb(248, 248, 251);
 
 }
